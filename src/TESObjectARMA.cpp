@@ -1,1 +1,3 @@
-#include "TESObjectARMA.hpp"
+/// @file
+
+#include "tess/TESObjectARMA.hpp"

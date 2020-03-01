@@ -1,1 +1,3 @@
-#include "TESIcon.hpp"
+/// @file
+
+#include "tess/TESIcon.hpp"

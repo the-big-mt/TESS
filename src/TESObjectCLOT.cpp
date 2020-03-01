@@ -1,1 +1,3 @@
-#include "TESObjectCLOT.hpp"
+/// @file
+
+#include "tess/TESObjectCLOT.hpp"

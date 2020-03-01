@@ -1,1 +1,3 @@
-#include "TESObjectWEAP.hpp"
+/// @file
+
+#include "tess/TESObjectWEAP.hpp"

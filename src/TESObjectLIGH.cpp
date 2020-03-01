@@ -1,1 +1,3 @@
-#include "TESObjectLIGH.hpp"
+/// @file
+
+#include "tess/TESObjectLIGH.hpp"

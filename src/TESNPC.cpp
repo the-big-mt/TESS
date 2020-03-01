@@ -1,1 +1,3 @@
-#include "TESNPC.hpp"
+/// @file
+
+#include "tess/TESNPC.hpp"

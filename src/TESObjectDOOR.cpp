@@ -1,1 +1,3 @@
-#include "TESObjectDOOR.hpp"
+/// @file
+
+#include "tess/TESObjectDOOR.hpp"

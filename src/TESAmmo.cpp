@@ -1,1 +1,3 @@
-#include "TESAmmo.hpp"
+/// @file
+
+#include "tess/TESAmmo.hpp"

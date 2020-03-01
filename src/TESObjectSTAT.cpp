@@ -1,1 +1,3 @@
-#include "TESObjectSTAT.hpp"
+/// @file
+
+#include "tess/TESObjectSTAT.hpp"

@@ -1,1 +1,3 @@
-#include "TESObjectTREE.hpp"
+/// @file
+
+#include "tess/TESObjectTREE.hpp"
