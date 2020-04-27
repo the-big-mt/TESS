@@ -12,12 +12,12 @@ build:
   script:
     - mkdir ./build
     - cd ./build
-    - cmake .. -DCMAKE_BUILD_TYPE="Release" -DCMAKE_INSTALL_PREFIX=./bin
+    - cmake .. -DCMAKE_BUILD_TYPE="Release" -DCMAKE_INSTALL_PREFIX=./output
     - make
     - make install
   artifacts:
     paths:
-      - build/bin
+      - build/output
   # depending on your build setup it's most likely a good idea to cache outputs to reduce the build time
   cache:
     paths:
