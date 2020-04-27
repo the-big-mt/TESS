@@ -12,9 +12,9 @@ build:
   script:
     - mkdir ./build
     - cd ./build
-    - cmake .. -DCMAKE_BUILD_TYPE="Debug"
+    - cmake .. -DCMAKE_BUILD_TYPE="Debug" -DCMAKE_INSTALL_PREFIX=./bin
     - make
-    - DESTDIR=bin make install
+    - make install
   artifacts:
     paths:
       - build/bin
